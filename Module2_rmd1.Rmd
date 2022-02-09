@@ -74,3 +74,24 @@ knitr::kable(head(cars),
 ```
 
 
+## Insert an equation
+
+$$ Y = \beta_0 + \beta_1x $$
+
+## Insert Images
+
+Here is an image inserted
+
+![sunstar](sunstar.png)
+
+## Insert an animated gif and Video
+
+
+## Insert text with some footnotes
+
+Here is footnote reference [^1] and another [^longnote]
+
+Here is an inline footnote ^[Inline notes are easier to write, since you dont have to pick an identifier and move down to type]
+
+[^1]: Here is the footnote.
+[^longnote]: Here's one with multiple blocks.
